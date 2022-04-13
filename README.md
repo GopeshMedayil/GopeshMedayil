@@ -2,7 +2,7 @@
 
 
 
-This is Gopesh Gopinath, I'm a software developer @TCS
+This is Gopesh Gopinath, I'm a Full stack javascript developer @TCS
 
 - 🔭 I’m currently working on React.js,Angular and Node.js
 - 🌱 I’m currently learning AWS
