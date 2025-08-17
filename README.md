@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 **Currently working on:** [Process Terminator](https://github.com/GopeshMedayil/process-terminator)  
+- 🔭 **Currently working on:** [Terraform Gui](https://github.com/GopeshMedayil/terraform-gui)  
 - 🌱 **Learning:** AWS & Cloud Architecture  
 - 💬 **Ask me about:** JavaScript, Angular, React, Node.js, Java, Spring Boot  
 - 📫 **Reach me at:** **medayilgopesh@gmail.com**  
